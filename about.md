@@ -1,11 +1,9 @@
 ---
 layout: page
-title: About Emerald
+title: About
 ---
-## About
-Emerald is a minimal theme created for Jekyll. The main purpose of Emerald is to provide a clear theme for those who want a blog ready to use, focused on the content and mobile-first.
-
-For further details on Emerald, please visit the [repository on Github](https://github.com/KingFelix/emerald/).
+## About the game
+Are you a bad enough dude to Drink 'n' Drive!? Feel the danger in this intoxicating retro racer, and find out if you can handle the power of beer and car combined! How long can you roll before you crash and die? Zigzag your way towards destiny as the captivating story of Biff unfolds. Who is he and why is he so dedicated to drinking? Featuring three levels with accompanying bosses waiting to stand in your way!
 
 ![Emerald](img/Emerald01.png "Emerald")
 
