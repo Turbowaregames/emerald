@@ -8,4 +8,4 @@ Are you a bad enough dude to Drink 'n' Drive!? Feel the danger in this intoxicat
 ![Emerald](img/Emerald01.png "Emerald")
 
 ### History
-"Drink'n'Drive - Immoral racing" was originally scheduled for release in 1985. The game, which was intended for the Japanese market only, was known as "Dorinko Dorinko Kurasu". However, due to mysterious circumstances it was never released. Some speculate that the reason was banning because of the very sensitive subject of alcohol. Others think that the development team simply drank too heavily and missed the deadline.
+"Drink'n'Drive - Immoral racing" was originally scheduled for release in 1985. The game, which at the time was intended for the Japanese market only, was known as "Dorinko Dorinko Kurasu". However, due to mysterious circumstances it was never released. Some speculate that the game was secretly banned because of the very sensitive subject of alcohol. Others think that the development team simply drank too heavily and missed the deadline.
